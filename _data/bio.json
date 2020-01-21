@@ -2,11 +2,11 @@
   "basics": {
     "name": "Shin Saito",
     "label": "Student",
-    "picture": "https://saitoshi.github.io/images/profile.jpg",
+    "picture": "https://saitoshi.github.io/images/profile.png",
     "email": "saitoshi@hawaii.edu",
     "phone": "808-319-3254",
     "website": "https://saitoshi.github.io",
-    "summary": "I am studying Data Science for the Mathematic Department at the University of Hawaii at Manoa. I expect to graduate by Spring 2021.",
+    "summary": "I am studying for a B.S. in Data Science in the Department of Mathematics at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "411 Horbon Lane",
       "postalCode": "96815",
@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "saitoshi",
+        "username": "mollymaluhia",
         "url": "https://www.linkedin.com/in/shinya-saito-9b76a2197/"
       },
     ]
@@ -31,8 +31,7 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Design","illustration:,
       ]
     },
     {
@@ -53,74 +52,56 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript",
-        "Python:,
+        "Javascript"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Git/GitHub",
-        "g++",
-      ]
-    }
+ 
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Data Science (Expected to graduate in Spring 2021)",
+      "area": "Data Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Natural Science",
-      "position": "LEarning Assistant",
+      "company": "UH Manoa Mathematic Department",
+      "position": "Learning Assistant",
       "website": "",
-      "startDate": "2019-01",
+      "startDate": "2019-01-01",
       "endDate": "Present",
-      "summary": "Help with the professors and the teaching assistants run the lectures and recitations.",
-      "highlights": [
-        "Create a worksheets and answer keys."
-      ]
+      "summary": "Help the professors and the teaching assistants run the classes."
     },
-   
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Honolulu Marathon ",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Translator",
+      "startDate": "2015-12",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-   
+      "summary": "Translate from Japanese to English and vice versa at the medical tent."
+    }
   ],
   "awards": [
     {
       "title": "Chancellor's Scholarship",
       "date": "2017-Present",
-      "awarder": "Univerisity of Hawaii at Manoa ",
+      "awarder": "Univesity of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Mamoru and Takitani Foundation Scholarship",
-      "date": "2017-May",
+      "title": "Mamoru and Takitani Foundation",
+      "date": "2017",
       "awarder": "Mamoru and Takitani Foundation",
-      "summary": "Scholarship awarded to incoming freshmen and continuing students."
-  
+      "summary": "Scholarship awarded to incoming freshmen based off gpa and essay written."
+    }
   ],
   "references": [
     {

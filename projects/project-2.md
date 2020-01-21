@@ -19,3 +19,5 @@ Being a Learning Assistant at the University of Hawaii at Manoa, depending on wh
 
 Using LaTex, I created calculus 1 and calculus 2 related worksheets that goes over basic and challenging problems. The worksheets were created based off of the previous final exams and midterms, so it helps the students to be aware what kind of types of problems they will be tested on. </br> 
 
+From doing this project the first thing I learned was the difficulty of creating a packet that meets the demand of most students. Since each students are at a different level 
+

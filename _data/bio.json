@@ -107,6 +107,17 @@
     }
   ],
   
+    "volunteer": [
+    {
+      "organization": "Honolulu Marathon/ Hapalua Marathon",
+      "website": "https://www.honolulumarathon.org/",
+      "position": "Medical Language Translator",
+      "startDate": "2015-12",
+      "endDate": "Present",
+      "summary": "Translate from English to Japanese and vice versa for the medical staff",
+    }
+  ],
+  
   "awards": [
     {
       "title": "Chancellor's Scholarship",
@@ -116,7 +127,7 @@
     },
     {
       "title": "Mamoru and Takitani Foundation",
-      "date": "2015",
+      "date": "January 2017",
       "awarder": "Mamoru and Takitani Foundation",
       "summary": "Scholarship awarded to incoming freshment."
     }

@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Shin Saito",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://saitoshi.github.io/images/profile.jpg",
+    "email": "saitoshi@hawaii.edu",
+    "phone": "808-319-3254",
+    "website": "https://saitoshi.github.io",
+    "summary": "I am studying Data Science for the Mathematic Department at the University of Hawaii at Manoa. I expect to graduate by Spring 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "411 Horbon Lane",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,24 +17,14 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "saitoshi",
+        "url": "http://github.com/saitoshi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "saitoshi",
+        "url": "https://www.linkedin.com/in/shinya-saito-9b76a2197/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [

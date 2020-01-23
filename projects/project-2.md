@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/overleaf.png
 title: Caclulus Handouts 
 permalink: projects/calcwkst
 # All dates must be YYYY-MM-DD format!

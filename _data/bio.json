@@ -29,19 +29,16 @@
   },
   "interests": [
     {
-      "name": "Hobbies",
-      "keywords": [
-        "illustration",
-        "sketch"
+      "name": "Differential Equations and Linear Algebra"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Japanese and English: Translation",
       "keywords": [
       ]
     }

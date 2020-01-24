@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/doe.jpg
+image: images/logo.jpg
 title: Hawaii Math State Challenge 
 permalink: projects/math-state
 # All dates must be YYYY-MM-DD format!

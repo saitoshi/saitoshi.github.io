@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sudoku.png
-title: Cotton
+title: Hexadecimal Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-20

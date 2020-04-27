@@ -30,7 +30,7 @@
   "interests": [
     {
       "name": "Differential Equations and Linear Algebra"
-      
+
     },
     {
       "name": "Data Science",
@@ -50,7 +50,9 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "Semantic UI"
       ]
     },
     {
@@ -61,7 +63,7 @@
         "Git/GitHub",
         "Windows",
         "Intellij IDEA"
-        
+
       ]
     }
   ],
@@ -74,6 +76,11 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
+        "Programming for Engineers, Spring 2018 ",
+        "Discrete Mathematics, Spring 2019",
+        "Probability and Statistics, Fall 2019",
+        "Vector Analysis, Spring 2020",
+        "Software Engineering, Spring 2020"
       ]
     }
   ],
@@ -86,7 +93,7 @@
       "endDate": "Present",
       "summary": "Help the professors and the teaching assistants with running lectures and recitations."
 
-      
+
     },
     {
       "company": "UH Manoa Natural Science Department",
@@ -103,10 +110,10 @@
       "startDate": "2019-02",
       "endDate": "Present",
       "summary": "Translate from English to Japanese and vice versa for the TIM department at the University of Hawaii at Manoa"
-      
+
     }
   ],
-  
+
     "volunteer": [
     {
       "organization": "Honolulu Marathon/ Hapalua Marathon",
@@ -117,7 +124,7 @@
       "summary": "Translate from English to Japanese and vice versa for the medical staff",
     }
   ],
-  
+
   "awards": [
     {
       "title": "Chancellor's Scholarship",

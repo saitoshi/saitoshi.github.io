@@ -127,6 +127,12 @@
 
   "awards": [
     {
+      "title": "Manoa Summer Freshmen Merit Scholarship",
+      "date": "May 2018",
+      "awarder": "University of Hawaii at Manoa ",
+      "summary": "This scholarship is awarded to continuing freshmen who have demonstrated academic achievement in their undergraduate coursework.."
+    },
+    {
       "title": "Chancellor's Scholarship",
       "date": "May 2017",
       "awarder": "University of Hawaii at Manoa ",
@@ -137,12 +143,6 @@
       "date": "January 2017",
       "awarder": "Mamoru and Takitani Foundation",
       "summary": "Scholarship awarded to incoming college freshmen based off of community service and extracurricular activities."
-    },
-    {
-      "title": "Manoa Summer Freshmen Merit Scholarship",
-      "date": "May 2018",
-      "awarder": "University of Hawaii at Manoa ",
-      "summary": "This scholarship is awarded to continuing freshmen who have demonstrated academic achievement in their undergraduate coursework.."
     }
   ],
   "references": [

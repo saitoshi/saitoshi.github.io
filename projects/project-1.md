@@ -16,7 +16,7 @@ To finish of the semester with ICS 314, the professor in charge breaks students 
 
 Click [here]((https://github.com/textbook-hunt/textbookhunt)) for the GitHub organization page.
 <img class="ui image" src="{{ site.baseurl }}/images/textbookhunt.png">
->>> The Landing Page for the Textbook Hunt application
+>>>>>  The Landing Page for the Textbook Hunt application
 
 ### Project Contributions 
 

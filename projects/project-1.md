@@ -16,7 +16,8 @@ To finish of the semester with ICS 314, the professor in charge breaks students 
 Click [here]((https://github.com/textbook-hunt/textbookhunt)) for the GitHub organization page.
 
 > Project Contributions 
- 
+
+For this project, our team created issues or tasks to do where every week we sign up the one we are able or willing to do. For the first week, I have set up the page where students can sign up their books to sell and a page where it lists the possible textbooks that students can see that are on sale. 
  
 
 

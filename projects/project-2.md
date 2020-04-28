@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/overleaf.png
-title: Caclulus Handouts 
+title: Calculus Handouts 
 permalink: projects/calcwkst
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-20

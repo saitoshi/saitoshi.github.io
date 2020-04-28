@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/textbookhunt.png
 title: Textbook Hunt
-permalink: projects/math-state
+permalink: projects/textbookhunt
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-27
 labels:

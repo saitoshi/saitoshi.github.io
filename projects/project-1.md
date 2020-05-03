@@ -24,7 +24,7 @@ For this project, our team created issues or tasks to do where every week we sig
 
 #### Week 1 Tasks 
 
-For the first week, I have set up the page where students can sign up their books to sell and a page where it lists the possible textbooks that students can see that are on sale. 
+For the first week, I have set up the page where students can sign up their books to sell and a page where it lists the possible textbooks that students can see that are on sale. To take a good look on what I was assigned, feel free to visit [Milestone 1](https://github.com/textbookhunt/textbookhunt/projects/2).
  
 #### Week 2 Tasks 
 For the second week, I have set up the advanced settings of what I did in the first week. For example, making the display cleaner and organized and have the navigation bar move as the user scrolls down the page.

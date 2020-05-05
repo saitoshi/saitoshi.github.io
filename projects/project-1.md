@@ -12,14 +12,14 @@ labels:
 summary: With my team, we have created a Meteor based application where college students can sell or purchase used textbooks.
 ---
 
-To finish of the semester with ICS 314, the professor in charge breaks students into groups of 3 to 5 people to create an application using Meteor, React, JavaScript, and other tools that were taught in the course over the semester. Textbook Hunt, an app that the group I participated was created so college students can sell used textbooks and purchase textbooks for a reasonable price. <br/>
+To finish of the semester with ICS 314, the professor in charge breaks students into groups of 3 to 5 people to create an application using Meteor, React, JavaScript, and other tools that were taught in the course over the semester. Textbook Hunt, an application that the group I participated was created so college students can sell used textbooks and purchase textbooks for a reasonable price. <br/>
 
 Click [here](https://textbookhunt.github.io/) for the GitHub organization page.
 <img class="ui image" src="{{ site.baseurl }}/images/textbookhunt.png">
 >>>>>  The Landing Page for the Textbook Hunt application
 
 ### Project Contributions 
-
+As mentioned previously, the purpose of this project was to practice the tools and methods on what we learned over the semester and applying proper teamwork ethics. Especially, with COIVD-19 lock down going, communication was essential. 
 For this project, our team created issues or tasks to do where every week we sign up the one we are able or willing to do. 
 
 #### Week 1 Tasks 

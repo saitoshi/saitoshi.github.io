@@ -16,7 +16,7 @@ To finish of the semester with ICS 314, the professor in charge breaks students 
 
 Click [here](https://textbookhunt.github.io/) for the GitHub organization page.
 <img class="ui image" src="{{ site.baseurl }}/images/textbookhunt.png">
->>>>>  The Landing Page for the Textbook Hunt application
+
 
 ### Project Contributions 
 As mentioned previously, the purpose of this project was to practice the tools and methods on what we learned over the semester and applying proper teamwork ethics. Especially, with COIVD-19 lock down going, communication was essential. 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/textbookhunt.png
+image: images/texticon.png
 title: Textbook Hunt
 permalink: projects/textbookhunt
 # All dates must be YYYY-MM-DD format!

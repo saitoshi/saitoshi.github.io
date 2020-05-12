@@ -48,6 +48,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
         "C",
         "Java",
         "Javascript",
@@ -78,6 +79,7 @@
       "courses": [
         "Programming for Engineers, Spring 2018 ",
         "Discrete Mathematics, Spring 2019",
+        "International Business Writing, Spring 2019",
         "Probability and Statistics, Fall 2019",
         "Vector Analysis, Spring 2020",
         "Software Engineering, Spring 2020"

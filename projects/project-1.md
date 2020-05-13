@@ -21,7 +21,7 @@ Click [here](https://textbookhunt.github.io/) for the GitHub organization page.
 ### Project Contributions 
 As mentioned previously, the purpose of this project was to practice the tools and methods on what we learned over the semester and applying proper teamwork ethics. Especially, with COIVD-19 lock down going, communication was essential. 
 For this project, our team created issues or tasks to do where every week we sign up the one we are able or willing to do. 
-<img class="ui medium centered image" src = "images/listingPage.png"/>
+<img class="ui medium centered image" src="{{ site.baseurl }}/images/listingPage.png">
 #### Week 1 Tasks 
 
 For the first week, I have set up the page where students can sign up their books to sell and a page where it lists the possible textbooks that students can see that are on sale. To take a good look on what I was assigned, feel free to visit [Milestone 1](https://github.com/textbookhunt/textbookhunt/projects/2).

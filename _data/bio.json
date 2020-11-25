@@ -77,12 +77,22 @@
       "endDate": "Present",
       "gpa": "3.5",
       "courses": [
-        "Programming for Engineers, Spring 2018 ",
-        "Discrete Mathematics, Spring 2019",
-        "International Business Writing, Spring 2019",
-        "Probability and Statistics, Fall 2019",
-        "Real Analysis, Spring 2020",
-        "Software Engineering, Spring 2020"
+       "ICS 311 - Alogrithms",
+       "ICS 312 - Machine Level and System Programming",
+       "ICS 314 - Software Engineering I",
+       "ICS 390 - Computing Ethics for Lab Assistants",
+       "ICS 414 - Software Engineering II",
+       "ICS 435 - Machine Learning",
+       "JPN 421 - Japanese Composition",
+       "JPN 425 - Japansese to English Translation",
+       "MATH 301 - Discrete Mathematics",
+       "MATH 302 - Introduction to Differential Equations",
+       "MATH 307 - Linear Algebra and Differential Equations",
+       "MATH 331 - Real Analysis",
+       "MATH 372 - Probability and Statistics",
+       "MATH 402 - Partial Differential Equations I",
+       "MATH 411 - Linear Algebra",
+       "MATH 412 - Abstract Algebra I",
       ]
     }
   ],
